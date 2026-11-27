@@ -1,5 +1,3 @@
-# advent-calendar
-<br>
 # Calendar Demo（可変日数カレンダー・デモ版）
 <br>
 <br>
